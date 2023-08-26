@@ -1,3 +1,5 @@
+# this file is from engineer mans follow along on youtube, my first introduction to pyhton
+
 Syntax
 Indentantion
 
